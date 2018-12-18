@@ -8,35 +8,14 @@ channels:
   - defaults
 
 dependencies:
-  - python=3.6
-  - numpy >=1.11.0
-  - iris >=2.1.0
-  - xarray >=0.10.8
-  - pandas >=0.22.0
-  - cartopy >=0.16.0
-  - numpy >=1.14
-  - matplotlib =2.2.*
-  - seaborn >=0.8.1
-  - geopy >=1.17.0
+  - numpy 
+  - xarray 
+  - pandas
+  - cartopy
+  - matplotlib 
+  - seaborn 
+  - geopy 
   - basemap
   - netcdf4
   - cis
   - metpy
-  - jupyter
-  - ipykernel
-  - notebook >=5.6.0
-  - ipypublish
-  - bibtexparser
-  - latexmk
-  - llvmlite
-  - cython
-  - numba
-  - scipy
-  - scikit-learn
-  - jupyterlab
-  - nc-time-axis
-  - PyTables
-  - xlrd
-  - memory_profiler
-  - pytorch
-  - torchvision
