@@ -1,4 +1,4 @@
-name: base
+name: deeplearning
 
 channels:
   - conda-forge
@@ -27,3 +27,6 @@ dependencies:
   - pillow
   - branca
   - geopandas
+  - scikit-learn
+  - pytorch
+  - torchvision
