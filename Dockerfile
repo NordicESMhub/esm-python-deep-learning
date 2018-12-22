@@ -10,6 +10,6 @@ RUN apt-get update && apt-get install -y dvipng latexmk texlive vim
 USER notebook
 
 # Install requirements for Python 3
-ADD jupyterhub_environment.yml jupyterhub_environment.yml
+ADD environment.yml environment.yml
 
-RUN conda env update -f jupyterhub_environment.yml
+RUN conda env update -f environment.yml
