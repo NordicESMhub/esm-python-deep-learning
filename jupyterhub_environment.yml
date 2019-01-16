@@ -27,3 +27,12 @@ dependencies:
   - pillow
   - branca
   - geopandas
+  - cv2
+  - voila
+  - nodejs
+  - pythreejs
+  - bqplot
+  - pip:
+      - dask_labextension
+      - ipydatawidgets
+      - sidecar
