@@ -27,11 +27,12 @@ dependencies:
   - pillow
   - branca
   - geopandas
-  - cv2
-  - voila
-  - nodejs
-  - pythreejs
-  - bqplot
+  - ncl
+  - pynio 
+  - pyngl
+  - cdsapi 
+  - folium
+  - basemap-data-hires
   - pip:
       - dask_labextension
       - ipydatawidgets
