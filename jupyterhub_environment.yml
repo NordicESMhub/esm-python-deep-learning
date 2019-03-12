@@ -28,8 +28,6 @@ dependencies:
   - branca
   - geopandas
   - ncl
-  - pynio 
-  - pyngl
   - cdsapi 
   - folium
   - basemap-data-hires
