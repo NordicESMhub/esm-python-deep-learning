@@ -1,4 +1,5 @@
-FROM quay.io/uninett/deep-learning-tools:20181129-30925cb
+#FROM quay.io/uninett/deep-learning-tools:20181129-30925cb
+FROM quay.io/uninett/deep-learning-tools:20180901-34973e4
 
 MAINTAINER Anne Fouilloux <annefou@geo.uio.no>
 
