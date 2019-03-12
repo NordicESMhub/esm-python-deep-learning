@@ -35,5 +35,6 @@ dependencies:
   - basemap-data-hires
   - pip:
       - dask_labextension
+      - geojsoncontour
       - ipydatawidgets
       - sidecar
