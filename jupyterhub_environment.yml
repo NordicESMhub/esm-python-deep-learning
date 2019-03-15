@@ -32,6 +32,7 @@ dependencies:
   - folium
   - basemap-data-hires
   - plotly
+  - rasterstats
   - pip:
       - dask_labextension
       - geojsoncontour
