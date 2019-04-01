@@ -33,6 +33,7 @@ dependencies:
   - basemap-data-hires
   - plotly
   - rasterstats
+  - astropy
   - pip:
       - dask_labextension
       - geojsoncontour
