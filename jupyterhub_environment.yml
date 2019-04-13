@@ -35,8 +35,10 @@ dependencies:
   - rasterstats
   - astropy
   - python-ternary
+  - ipyvolume
   - pip:
       - dask_labextension
       - geojsoncontour
       - ipydatawidgets
       - sidecar
+      - k3d
