@@ -19,7 +19,7 @@ dependencies:
   - netcdf4
   - cis
   - metpy
-  - ipyleaflet=0.9.2
+  - ipyleaflet
   - scipy
   - rasterio
   - tqdm
@@ -30,3 +30,7 @@ dependencies:
   - scikit-learn
   - pytorch
   - torchvision
+  - ipyvolume
+  - plotly
+  - pip:
+      - k3d
