@@ -36,9 +36,11 @@ dependencies:
   - astropy
   - python-ternary
   - ipyvolume
+  - vispy
   - pip:
       - dask_labextension
       - geojsoncontour
       - ipydatawidgets
       - sidecar
       - k3d
+      - vismap
