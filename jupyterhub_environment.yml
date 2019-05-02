@@ -2,8 +2,6 @@ name: base
 
 channels:
   - conda-forge
-  - pytorch
-  - nordicesmhub
   - bioconda
   - defaults
 
@@ -27,13 +25,11 @@ dependencies:
   - pillow
   - branca
   - geopandas
-  - ncl
   - cdsapi 
   - folium
   - basemap-data-hires
   - plotly
   - rasterstats
-  - astropy
   - python-ternary
   - ipyvolume
   - pip:
