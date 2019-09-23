@@ -31,6 +31,7 @@ dependencies:
   - plotly
   - rasterstats
   - python-ternary
+  - cmocean
   - pip:
       - dask_labextension
       - geojsoncontour
