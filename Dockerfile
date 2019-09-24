@@ -1,5 +1,5 @@
-# FROM quay.io/uninett/deep-learning-tools:20180901-34973e4
-FROM quay.io/uninett/deep-learning-tools:20190821-df15ac1
+FROM quay.io/uninett/deep-learning-tools:20180901-34973e4
+## too big image FROM quay.io/uninett/deep-learning-tools:20190821-df15ac1
 
 
 MAINTAINER Anne Fouilloux <annefou@geo.uio.no>
