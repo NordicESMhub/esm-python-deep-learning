@@ -32,6 +32,7 @@ dependencies:
   - rasterstats
   - python-ternary
   - cmocean
+  - k3d
   - pip:
       - dask_labextension
       - geojsoncontour
