@@ -33,6 +33,7 @@ dependencies:
   - python-ternary
   - cmocean
   - k3d
+  - vega_datasets
   - pip:
       - dask_labextension
       - geojsoncontour
