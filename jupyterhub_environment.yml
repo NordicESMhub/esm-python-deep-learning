@@ -6,28 +6,21 @@ channels:
   - defaults
 
 dependencies:
-  - numpy 
   - xarray 
   - pandas
   - cartopy
-  - matplotlib 
-  - seaborn 
   - geopy 
-  - basemap
   - netcdf4
   - cis
   - metpy
   - ipyleaflet
-  - scipy
   - rasterio
-  - tqdm
   - requests
   - pillow
   - branca
   - geopandas
   - cdsapi 
   - folium
-  - basemap-data-hires
   - plotly
   - rasterstats
   - python-ternary
